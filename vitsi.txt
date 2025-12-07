@@ -1,2 +1,4 @@
 What is a programmer's favourite hangout place?
 - Foo Bar
+
+["hip", "hip"]
